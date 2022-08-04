@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Poonam Soni
-- 👀 I’m interested in Web development
-- ✨ I have HTML, CSS experience
-- 🌱 I’m currently learning Advance JavaScript
-- 🕮 I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art
-- 📫 Reach me at: poonam.soni.adlakha@gmail.com
+##  👋 Hi, I’m Poonam Soni
+### 👀 I’m interested in Web development
+### ✨ I have HTML, CSS experience
+### 🌱 I’m currently learning Advance JavaScript
+### 🕮 I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art
+#### 📫 Reach me at: poonam.soni.adlakha@gmail.com
 
 <!---
 poonam-adlakha/poonam-adlakha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
