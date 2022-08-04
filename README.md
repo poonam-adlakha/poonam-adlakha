@@ -3,7 +3,7 @@
 ### ✨ I have HTML, CSS experience
 ### 🌱 Currently learning Advance JavaScript
 ### 🕮 I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art
-#### 📫 Reach me at: poonam.soni.adlakha@gmail.com
+#### 📫 Reach me at: [Twitter](https://twitter.com/CodeByPoonam)
 
 <!---
 poonam-adlakha/poonam-adlakha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
