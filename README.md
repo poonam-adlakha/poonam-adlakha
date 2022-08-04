@@ -1,4 +1,4 @@
-![Build in CSS](https://user-images.githubusercontent.com/77884951/182833800-c076e0fb-09fe-49a2-856f-d4a2dc3a0ae7.JPG)
+![Build in CSS](https://user-images.githubusercontent.com/77884951/182873933-ae9a42f3-2e49-44f6-8a2e-535b857c19ce.JPG)
 
 <table role="table">
             <thead>
@@ -35,7 +35,6 @@
         
         
 You can connect with me at [Twitter](https://twitter.com/CodeByPoonam) and [CodePen](https://codepen.io/poonam-adlakha) 📫
-
 
 [![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-adlakha)](https://github.com/anuraghazra/github-readme-stats)
 
