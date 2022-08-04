@@ -11,10 +11,10 @@
             <tr>
                 <td align="left">
                     <ul>
-                        <li> I’m interested in *Web development* 👩🏻‍⚕️  </li>
+                        <li> I’m interested in Web development 👩🏻‍⚕️  </li>
                         <li> I have experience in HTML, CSS and JavaScript 💻 </li>
                         <li> Currently learning Advance JavaScript 📝 </li>
-                        <li> I share my knowledge on **HTML, CSS and JavaScript** in form of tips, projects and art 🕮 </li>
+                        <li> I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art 🕮 </li>
                         <li> LOVE playing badminton 🏸 </li>
                     </ul>
                 </td>
