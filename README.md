@@ -38,6 +38,8 @@ You can connect with me at [Twitter](https://twitter.com/CodeByPoonam) and [Code
 
 [![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-adlakha)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:activity-->
+
 <!---
 poonam-adlakha/poonam-adlakha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
