@@ -1,6 +1,7 @@
-![Build in CSS](https://user-images.githubusercontent.com/77884951/182815538-d9aae4e0-c8a3-468b-85d3-02377a661d84.JPG)
+![Build in CSS](https://user-images.githubusercontent.com/77884951/182833040-6417aaf4-594c-40c2-b2fe-1a39758d06cc.JPG)
 
-### Here's some information about me:
+
+### 🧐 Some Things About Me:
 * I’m interested in Web development 👩🏻‍⚕️ 
 * I have experience in HTML, CSS and JavaScript 💻
 * Currently learning Advance JavaScript 📝 C
