@@ -1,5 +1,4 @@
-#  Hello, I’m Poonam Soni 👋
-![Build in CSS](https://user-images.githubusercontent.com/77884951/182814847-6011db60-e999-4de3-8370-9dd664211615.JPG)
+![Build in CSS](https://user-images.githubusercontent.com/77884951/182815538-d9aae4e0-c8a3-468b-85d3-02377a661d84.JPG)
 
 * 👀 I’m interested in Web development
 * 💻 I have experience in HTML, CSS and JavaScript
