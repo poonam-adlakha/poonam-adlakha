@@ -1,4 +1,4 @@
-![Build in CSS](https://user-images.githubusercontent.com/77884951/182833040-6417aaf4-594c-40c2-b2fe-1a39758d06cc.JPG)
+![Build in CSS](https://user-images.githubusercontent.com/77884951/182833800-c076e0fb-09fe-49a2-856f-d4a2dc3a0ae7.JPG)
 
 
 ### 🧐 Some Things About Me:
