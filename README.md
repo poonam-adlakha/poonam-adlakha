@@ -2,10 +2,10 @@
 
 
 ### 🧐 Some Things About Me:
-* I’m interested in Web development 👩🏻‍⚕️ 
+* I’m interested in *Web development* 👩🏻‍⚕️ 
 * I have experience in HTML, CSS and JavaScript 💻
 * Currently learning Advance JavaScript 📝 C
-* I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art 🕮 
+* I share my knowledge on **HTML, CSS and JavaScript** in form of tips, projects and art 🕮 
 * LOVE playing badminton 🏸
 * You can connect with me at [Twitter](https://twitter.com/CodeByPoonam) and [CodePen](https://codepen.io/poonam-adlakha) 📫 
 
