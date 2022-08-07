@@ -37,9 +37,13 @@
         
 You can connect with me at [Twitter](https://twitter.com/CodeByPoonam) and [CodePen](https://codepen.io/poonam-adlakha) 📫
 
-[![Poonam's GitHub stats](https://github-readme-stats.vercel.app/api?username=poonam-adlakha)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-adlakha" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-adlakha" />
+</a>
 
-<!--START_SECTION:activity-->
 
 <!---
 poonam-adlakha/poonam-adlakha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
