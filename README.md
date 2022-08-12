@@ -1,4 +1,4 @@
-![About Me](https://user-images.githubusercontent.com/77884951/184351025-e9257d01-bcca-42a9-9469-aa6b49567f64.PNG)
+![About Me](https://user-images.githubusercontent.com/77884951/184351864-166230bd-0d97-4071-8569-7355eda29563.PNG)
 
 
 
