@@ -43,6 +43,11 @@ You can connect with me at [Twitter](https://twitter.com/CodeByPoonam) and [Code
 
 [Netlify Link](https://app.netlify.com/teams/poonam-adlakha/overview) 🧐
 
+<a href="https://twitter.com/CodeByPoonam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/CodeByPoonam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/poonam-adlakha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-adlakha" />
 </a>
