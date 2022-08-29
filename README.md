@@ -7,7 +7,7 @@
 <table role="table">
             <thead>
                 <tr>
-                    <th align="left">Some Things About Me 👩‍💼</th>
+                    <th align="left">Some Facts About Me 👩‍💼</th>
                     <th align="left">Tech Stack 👩🏻‍💻 </th>
                 </tr>
             </thead>
