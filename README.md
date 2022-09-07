@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=fo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-adlakha" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poonam-adlakha&theme=dark)](https://git.io/streak-stats)
 
