@@ -23,16 +23,10 @@
                     </ul>
                 </td>
                 <td align="left">
-                     <ul>
-                        <img src="https://user-images.githubusercontent.com/77884951/182854355-583eff33-c3e0-43f7-a4f5-4b646878fb87.JPG" height = "30em" />
-                        <br>
-                        <img src="https://user-images.githubusercontent.com/77884951/182856114-cfdb3630-7a7e-4043-b668-3434e1969e75.JPG" height = "30em" />
-                        <img src="https://user-images.githubusercontent.com/77884951/182856251-f060a3b9-e3da-4864-80b3-26af0279157f.JPG" height = "30em"/>
-                        <img src="https://user-images.githubusercontent.com/77884951/182856526-cbccb94b-992a-4e28-b3a0-db34e692a4c8.JPG" height = "30em"/> 
-                        <img src="https://user-images.githubusercontent.com/77884951/182857571-75c01d51-ddd4-4205-b9fb-cb98c878068d.JPG" height = "30em"/>
-                        <img src="https://user-images.githubusercontent.com/77884951/182858097-b5eeb055-3024-43fe-886c-7410333c9212.JPG" height = "30em"/>
-                        <img src="https://user-images.githubusercontent.com/77884951/187064024-dbb9ad6f-3890-450b-a346-86cb1eaad2c5.PNG" height = "30em"/>
-                    </ul>
+                     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+                     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+                     <br>
+                     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
                 </td>
             </tr>
             </tbody>
