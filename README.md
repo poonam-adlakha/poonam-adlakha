@@ -19,7 +19,7 @@
                         <li> I have experience of working in HTML, CSS and JavaScript 💻 </li>
                         <li> Currently learning concepts of Tailwind CSS 📝 </li>
                         <li> I share my knowledge on HTML, CSS and JavaScript in form of tips, projects and art 🕮 </li>
-                        <li> LOVE playing badminton 🏸 </li>
+                        <li> Love playing badminton 🏸 </li>
                     </ul>
                 </td>
                 <td align="left">
@@ -57,7 +57,7 @@ src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=fo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-adlakha" />
 </a>
 <br>
-PROFILE VIEWS:
+<em>PROFILE VIEWS </em>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{poonam-adlakha}/count.svg)
