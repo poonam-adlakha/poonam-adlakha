@@ -16,7 +16,7 @@
                 <td align="left">
                     <ul>
                         <li> My interest is in Web development 👩🏻‍⚕️  </li>
-                        <li> I have experience of working in HTML, CSS and JavaScript 💻 </li>
+                        <li> I have experience of working in HTML, CSS and JavaScript Projects 💻 </li>
                         <li> Currently learning concepts of Tailwind CSS 📝 </li>
                         <li> I share my knowledge on HTML, CSS and JavaScript in form of tips, resources, projects and art 🕮 </li>
                         <li> My GitHub shows my art using HTML, CSS and JavaScript 🎨</li>
