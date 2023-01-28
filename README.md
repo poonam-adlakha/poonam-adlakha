@@ -41,7 +41,7 @@
         </table>
         
         
-You can connect with me at below links:
+Connect with me at below links:
 <br>
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CodeByPoonam) [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/poonam-adlakha)
 [![](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/poonam-adlakha/overview)
