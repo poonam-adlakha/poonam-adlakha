@@ -19,7 +19,7 @@
                         <li> I have experience of working in HTML, CSS, JavaScript and Tailwind CSS Projects 💻 </li>
                         <li> Currently learning concepts of React JS 📝 </li>
                         <li> I share my knowledge on HTML, CSS, Tailwind CSS and JavaScript in form of tips, resources, projects and art 🕮 </li>
-                        <li> My GitHub shows my art using HTML, CSS and JavaScript 🎨</li>
+                        <li> My GitHub shows my art and projects using HTML, CSS and JavaScript 🎨</li>
                         <li> Love playing badminton 🏸 </li>
                     </ul>
                 </td>
