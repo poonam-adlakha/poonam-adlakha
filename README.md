@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=fo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonam-adlakha" />
 </a>
 <br>
-<em>PROFILE VIEWS </em>
+<em>PROFILE VIEW </em>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/{poonam-adlakha}/count.svg)
