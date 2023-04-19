@@ -46,10 +46,12 @@ Connect with me at below links:
 [![](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CodeByPoonam) [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/poonam-adlakha)
 [![](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/poonam-adlakha/overview)
 
+<a href="https://www.github.com/poonam-adlakha" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br>
 <a href="https://twitter.com/CodeByPoonam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeByPoonam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/poonam-adlakha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/poonam-adlakha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=poonam-adlakha" />
